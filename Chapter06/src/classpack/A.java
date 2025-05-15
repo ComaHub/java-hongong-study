@@ -1,0 +1,5 @@
+package classpack;
+
+class A {
+
+}
